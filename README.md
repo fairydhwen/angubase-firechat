@@ -1,2 +1,2 @@
 # angubase-firechat
-A chat example with Angular, Material and Firebase
+A chat example with Angular, Material and Firebase.
